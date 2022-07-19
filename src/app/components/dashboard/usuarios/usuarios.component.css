@@ -1,0 +1,21 @@
+
+.mat-form-field {
+  font-size: 14px;
+  width: 80%;
+  margin: 10px;
+}
+table {
+    width: 90%;
+    margin: 1rem auto;
+  }
+  table th {
+    width: 20%;
+  }
+.accions-icons{
+  cursor: pointer;
+  margin: 0 10px;
+}
+#content-table{
+  width: 85%;
+  margin: 1rem auto;
+}
